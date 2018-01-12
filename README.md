@@ -22,3 +22,9 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+To run the server:
+    rails s -b $IP -p $PORT
+    
+Steps to set up rails on github:
+    https://gist.github.com/JennDudley/2493288
